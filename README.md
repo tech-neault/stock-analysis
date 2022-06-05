@@ -1,8 +1,8 @@
-#Green Stocks Analysis
+# Green Stocks Analysis
 
 
 ### Overview of Analysis
-In this analysis we re-factored our original code, which analyzing green stocks one year at a time. After we refactored it, we can now analyze more data at once with multiple years at a time. 
+For this challenge, we are helping Steve create VBA Macros that will analyze stocks in 'green' companies. We do so by creating loops to analyze large amounts of data very quickly. In this analysis we re-factored our original code, which analyzed green stocks one year at a time. 
 
 ### Results
 The results of this refactoring showed that the code is able to be analyzed faster than before. 
