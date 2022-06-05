@@ -7,9 +7,9 @@ For this challenge, we are helping Steve create VBA Macros that will analyze sto
 ### Results
 The results of this refactoring showed that the code is able to be analyzed faster than before. 
 
-![Image]https://github.com/tech-neault/stock-analysis/blob/main/Resources/2017%20Macro%20runtime.png
+![2017 image](https://github.com/tech-neault/stock-analysis/blob/main/Resources/2017%20Macro%20runtime.png)
 
-![Image]https://github.com/tech-neault/stock-analysis/blob/main/Resources/2018%20Macro%20runtime.png
+![2018 image](https://github.com/tech-neault/stock-analysis/blob/main/Resources/2018%20Macro%20runtime.png)
 
 ### Summary
 #### Advantages and Disadvantages
